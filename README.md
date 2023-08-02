@@ -1,2 +1,3 @@
-# Hand-Detection
-The project contains the code of hand detection. The model has used a model named as hand. The project doesn't need any GPU to be used. The entire detection part is done with help of OpenCV2. The OpenCV2 identifies the hand and the model has 20 numbers placed at the number of positions on the hand. The model tells the joints of the hand. Then I have opened an image on the screen by using python and the images were named with numbers 0 to 6. By using OpenCV2 and simple prediction code. The predication were made between the hand numbers and image numbers. The hand shows the figure and cv2 by simple prediction shows the image.
+# Hand-Detection Project
+
+This project focuses on hand detection using the "hand" model without requiring GPU support. The entire detection process relies on OpenCV2. The model identifies the hand and provides information about the 20 hand joints. After opening an image using Python, the images are named from 0 to 6. With the help of OpenCV2 and a simple prediction code, the project makes predictions between the hand numbers and image numbers. The hand displays the figure, while OpenCV2 performs image predictions.
